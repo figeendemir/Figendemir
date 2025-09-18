@@ -1,5 +1,3 @@
-# Figendemir
-
 <h1 align="center">Hi, I'm Figen 👋🏻 👩🏻‍💻</h1>
 <h3 align="center">FİGEN DEMİR Computer Engineer</h3>
 
