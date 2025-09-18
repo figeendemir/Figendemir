@@ -1,7 +1,6 @@
-![MasterHead](https://raw.githubusercontent.com/figeendemir/Figendemir/refs/heads/main/images/figen.png)
-
 <h1 align="center">Hi, I'm Figen 👋🏻 👩🏻‍💻</h1>
-<h3 align="center">FİGEN DEMİR Computer Engineer</h3>
+
+![MasterHead](https://raw.githubusercontent.com/figeendemir/Figendemir/refs/heads/main/images/figen.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=figeendemir&label=Profile%20views&color=0e75b6&style=flat" alt="figeendemir" /> </p>
 
