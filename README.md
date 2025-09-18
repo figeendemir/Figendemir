@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=figeendemir&label=Profile%20views&color=0e75b6&style=flat" alt="figeendemir" /> </p>
 
-- 📫 You can reach me **figendemir1808@gmail.com** / <a href="https://linkedin.com/in/figen-demir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="figen-demir" height="20" width="30" /></a>
+- 📫 You can reach me **figendemir1808@gmail.com** / <a href="https://linkedin.com/in/figen-demir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="figen-demir" height="10" width="20" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
